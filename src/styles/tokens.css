@@ -1,0 +1,18 @@
+:root {
+  --bg: #07070b;
+  --bg-soft: #0c0b13;
+  --surface: #11101a;
+  --surface-2: #151320;
+  --violet: #965dff;
+  --violet-strong: #7841ec;
+  --indigo: #5648d8;
+  --blue: #38a7ff;
+  --text: #f8f6ff;
+  --muted: #aaa6b9;
+  --muted-2: #797487;
+  --line: rgba(178, 155, 255, .16);
+  --gradient: linear-gradient(120deg, var(--violet), var(--indigo) 55%, var(--blue));
+  --container: 1180px;
+  --radius: 18px;
+  --shadow: 0 26px 80px rgba(0, 0, 0, .34);
+}
