@@ -1,5 +1,9 @@
 # Fatemeh Sabourinia — AI Engineering Portfolio
 
+## Live Portfolio
+
+[View the live portfolio](https://fatemehsabourinia.github.io/)
+
 A responsive, accessible, single-page portfolio built with React, TypeScript, Vite, Motion, and modern CSS. It presents selected AI and machine learning research projects, published Android applications, technical expertise, education, and research activity.
 
 ## Development
@@ -16,7 +20,7 @@ npm run lint
 npm run build
 ```
 
-Deployment is configured for the GitHub user site at `https://fatemehsabourinia.github.io/` through GitHub Actions.
+Deployment is configured for the GitHub user site at [https://fatemehsabourinia.github.io/](https://fatemehsabourinia.github.io/) through GitHub Actions.
 
 ## Public asset sources
 
