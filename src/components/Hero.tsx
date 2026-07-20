@@ -12,8 +12,8 @@ export function Hero() {
         <p className="hero-kicker"><Sparkles size={15} /> Intelligence, engineered for impact</p>
         <h1 id="hero-title">Fatemeh <span>Sabourinia</span></h1>
         <p className="hero-role">AI Engineer <i /> Machine Learning Engineer</p>
-        <p className="hero-fields">Computer Vision <span>/</span> Data Science <span>/</span> Explainable AI <span>/</span> Mobile AI</p>
-        <p className="hero-statement">Building intelligent systems across computer vision, data science, explainable AI, and real-world software applications.</p>
+        <p className="hero-fields">Computer Vision <span>/</span> Data Science <span>/</span> Mobile AI</p>
+        <p className="hero-statement">Building intelligent systems across computer vision, data science, and real-world software applications.</p>
         <div className="hero-actions">
           <a className="button button-primary" href="#projects">Explore My Work <ArrowDownRight size={18} /></a>
           <a className="button button-secondary" href={site.github} target="_blank" rel="noopener noreferrer"><GitHubIcon size={18} /> View GitHub</a>
