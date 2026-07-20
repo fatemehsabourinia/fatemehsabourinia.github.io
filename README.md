@@ -24,4 +24,10 @@ Deployment is configured for the GitHub user site at [https://fatemehsabourinia.
 
 ## Public asset sources
 
-Project figures and application screenshots are copied from the public repositories linked on the website. No participant-level ADHD data is included.
+Project figures and application screenshots are copied from the public repositories linked on the website.
+
+## Ownership
+
+This portfolio, including its original content, visual direction, structure, and presentation, belongs to Fatemeh Sabourinia.
+
+The portfolio was created to present my professional background, technical skills, projects, applications, and research work. Third-party libraries, tools, project assets, and external services remain subject to their respective licences and ownership terms.
