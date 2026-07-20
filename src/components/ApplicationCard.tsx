@@ -7,7 +7,7 @@ export function ApplicationCard({ app, index }: { app: (typeof applications)[num
   return (
     <Reveal className="app-card" delay={index * .12}>
       <div className="phone-wrap"><div className="phone"><span className="phone-speaker" /><img src={app.image} alt={app.alt} loading="lazy" /></div></div>
-      <div className="app-copy"><span className="app-label"><Play size={13} fill="currentColor" /> Published Android application</span><h3>{app.title}</h3><p>{app.description}</p>
+      <div className="app-copy"><span className="app-label"><Play size={13} fill="currentColor" /> Published Android application</span><h3><a href={app.repository} target="_blank" rel="noopener noreferrer">{app.title}</a></h3><p>{app.description}</p>
         <div className="tag-list">{app.tags.map(tag => <span key={tag}>{tag}</span>)}</div>
         <div className="app-actions">
           <a className="button button-primary button-small" href={app.play} target="_blank" rel="noopener noreferrer"><Play size={16} fill="currentColor" /> Google Play</a>
